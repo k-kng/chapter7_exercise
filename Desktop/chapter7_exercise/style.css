@@ -14,14 +14,41 @@
 }
 
 .main-visual-text {
-  padding: 20px 20px;
-  color: #6C6B6B;
+  padding: 20px;
 }
 
 main {
   width: 840px;
-  display: flex;
-  justify-content: center;
-  margin: o auto;
-  padding: 50px 0;
+  margin: 50px auto;
+}
+
+.webcamp {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.webcamp2 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.webcamp3 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.webcamp4 {
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+a {
+  color: #6C6B6B;
+}
+
+p {
+  color: #6C6B6B;
 }
